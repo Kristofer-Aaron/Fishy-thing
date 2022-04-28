@@ -1,5 +1,11 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
 body {
     background-color: lightblue;
+    align-items: center;
+    justify-content: center;
 }
 
 .container {
